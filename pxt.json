@@ -1,6 +1,6 @@
 {
-    "name": "magicbit",
-    "version": "1.0.0",
+    "name": "定制magicbit",
+    "version": "1.0.1",
     "description": "Emakefun magicbit expansion board",
     "license": "MIT",
     "dependencies": {
